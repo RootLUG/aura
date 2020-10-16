@@ -1,3 +1,5 @@
+# This repository has moved to a new location: https://github.com/SourceCode-AI/aura
+
 ![aura logo](files/logo/logotype.png)
 
 # Security Auditing and code introspection
